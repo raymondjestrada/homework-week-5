@@ -25,4 +25,4 @@ Description: This week's homework involved creating a simple calendar applicatio
 Link to the Password Generator: https://github.com/raymondjestrada/homework-week-5
 
 Preview Screenshot 
-![screen shot](https://user-images.githubusercontent.com/87677207/150320309-36f36297-41cd-4f12-800d-e16e377477bd.PNG)
+https://github.com/raymondjestrada/homework-week-5/blob/main/screen%20shot.PNG?raw=true
