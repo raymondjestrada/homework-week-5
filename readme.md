@@ -14,3 +14,15 @@ Third Party Assets:
 Momement.js
 Font Awesome
 Bootstrap
+
+Work DAy Schedular By: R.J. Estrada
+
+Technologies Used: -Javascript, -CSS, -HTML, Moment.js, jQuery
+
+Description: This week's homework involved creating a simple calendar application that allows a user to save events for each hour of the day. A color code indicates whether the time block is past, present or future, and the events are saved in local storage.
+
+
+Link to the Password Generator: https://github.com/raymondjestrada/homework-week-5
+
+Preview Screenshot 
+![screen shot](https://user-images.githubusercontent.com/87677207/150320309-36f36297-41cd-4f12-800d-e16e377477bd.PNG)
